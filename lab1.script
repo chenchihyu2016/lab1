@@ -1,0 +1,14 @@
+Script started on 2016年03月04日 (週五) 19時05分58秒
+]0;H34011128@2015cpp: ~H34011128@2015cpp:~$ whoam [Ki [K; pe[Kwd
+H34011128
+/home/H34011128
+]0;H34011128@2015cpp: ~H34011128@2015cpp:~$ to[K[Kgit cong[Kf0[K-g[K[Kig -l
+user.name=Chen, Chih-Yu
+user.email=chenchihyu2014@gmail.com
+]0;H34011128@2015cpp: ~H34011128@2015cpp:~$ git co[Klone hrrp[K[K[Kttps://github.com/chencihhyu[K[K[K[K[Khihyu2016/lab1.gu[Kit
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34011128@2015cpp: ~H34011128@2015cpp:~$ vat [K[K[K[Kcat lab1.x[Kscrupt[K[Kip[K[K[Kipt
+]0;H34011128@2015cpp: ~H34011128@2015cpp:~$ exit
+
+Script done on 2016年03月04日 (週五) 19時08分34秒
