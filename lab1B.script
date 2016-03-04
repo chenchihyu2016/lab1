@@ -1,0 +1,11 @@
+命令稿啟動於 2016年03月04日 (週五) 19時36分33秒
+]0;chenchihyu@chenchihyu-VirtualBox: ~chenchihyu@chenchihyu-VirtualBox:~$ make
+g++ Lab1.cpp -o Lab1
+]0;chenchihyu@chenchihyu-VirtualBox: ~chenchihyu@chenchihyu-VirtualBox:~$ ./Lab1
+Please input the number : 22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+Please input the number : ^C
+]0;chenchihyu@chenchihyu-VirtualBox: ~chenchihyu@chenchihyu-VirtualBox:~$ exit
+
+命令稿已於 2016年03月04日 (週五) 19時37分25秒
+ 完成
